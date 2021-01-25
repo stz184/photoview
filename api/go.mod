@@ -16,7 +16,7 @@ require (
 	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/websocket v1.4.2
-	github.com/h2non/filetype v1.1.0
+	github.com/h2non/filetype v1.1.1
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/joho/godotenv v1.3.0
 	github.com/mitchellh/mapstructure v1.3.3 // indirect
