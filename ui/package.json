@@ -5,7 +5,7 @@
   "description": "UI app for Photoview",
   "dependencies": {
     "@babel/preset-env": "^7.12.7",
-    "@types/react": "^17.0.0",
+    "@types/react": "^17.0.3",
     "babel-plugin-styled-components": "^1.12.0",
     "copy-to-clipboard": "^3.3.1",
     "graphql": "^15.4.0",
