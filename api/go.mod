@@ -6,7 +6,7 @@ require (
 	github.com/99designs/gqlgen v0.13.0
 	github.com/Kagami/go-face v0.0.0-20200825065730-3dd2d74dccfb
 	github.com/disintegration/imaging v1.6.2
-	github.com/go-sql-driver/mysql v1.5.0
+	github.com/go-sql-driver/mysql v1.6.0
 	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/websocket v1.4.2
@@ -21,8 +21,8 @@ require (
 	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83
 	golang.org/x/image v0.0.0-20210220032944-ac19c3e999fb
 	gopkg.in/vansante/go-ffprobe.v2 v2.0.2
-	gorm.io/driver/mysql v1.0.4
+	gorm.io/driver/mysql v1.0.6
 	gorm.io/driver/postgres v1.0.8
 	gorm.io/driver/sqlite v1.1.4
-	gorm.io/gorm v1.20.12
+	gorm.io/gorm v1.21.9
 )
